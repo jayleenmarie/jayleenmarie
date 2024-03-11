@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jayleenmarie
-- 👀 I’m interested in the performing arts, digital storytelling, and making an impact
-- 🌱 I’m currently learning SQL 
-- 💞️ I’m looking to collaborate on creative projects
+- 👀 I’m interested in computer science, digital storytelling, and the performing arts
+- 🌱 I’m currently learning cybersecurity 
+- 💞️ I’m looking to start a career in tech and make a lasting impact
 - 📫 How to reach me J.marie430@yahoo.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm learning how to play piano!
