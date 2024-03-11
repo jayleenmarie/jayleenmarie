@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning cybersecurity 
 - 💞️ I’m looking to start a career in tech and make a lasting impact
 - 📫 How to reach me J.marie430@yahoo.com
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm learning how to play piano!
 
 <!---
